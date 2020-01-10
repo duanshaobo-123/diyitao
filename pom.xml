@@ -3,8 +3,7 @@
   <groupId>com.duanshaobo</groupId>
   <artifactId>duanshaobo-common-utils</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  	<name>duanshaobo-common-utils</name>
-	<description>duanshaobo-common-utils</description>
+
 	<properties>
 		<junit-version>4.12</junit-version>
 	</properties>

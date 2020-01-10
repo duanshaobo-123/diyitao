@@ -1,10 +1,10 @@
-package com.zhanggm.common.utils.test;
+package com.duanshaobo.common.utils.test;
 
 import java.util.List;
 
 import org.junit.Test;
 
-import com.zhanggm.common.utils.FileUtil;
+import com.duanshaobo.common.utils.FileUtil;
 
 public class FileTests {
 	@Test

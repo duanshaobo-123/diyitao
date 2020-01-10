@@ -1,4 +1,4 @@
-package com.zhanggm.common.utils;
+package com.duanshaobo.common.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
